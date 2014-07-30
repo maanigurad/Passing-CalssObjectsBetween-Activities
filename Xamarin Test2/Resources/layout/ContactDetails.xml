@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+  <TextView
+      android:id="@+id/FirstName"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+    android:id="@+id/LastName"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_marginLeft="5dp" />
+  <TextView
+    android:id="@+id/HomeAddress"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_marginLeft="5dp" />
+  <TextView
+    android:id="@+id/Suburb"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/PostCode"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+
+  <TextView
+    android:id="@+id/State"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_marginLeft="5dp" />
+
+  <TextView
+    android:id="@+id/Counrty"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/HomePhone"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/WorkPhone"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/Mobile"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/Email"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/LinkedinURl"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+  <TextView
+      android:id="@+id/FacebookURL"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:layout_marginLeft="5dp" />
+
+</LinearLayout>
